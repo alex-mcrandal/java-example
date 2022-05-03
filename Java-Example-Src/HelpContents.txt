@@ -1,0 +1,22 @@
+		Portfolio Contents
+
+Program		Explanation
+
+ComputeCDValue	This program was created by Daryl Close as simple python program
+		to calculate interest rates on any given amount of money. The
+		portfolio runs this program to showcase the ability to run a
+		python program from a java file.
+
+Assign Airplane Seats	The user will be shown a seating arragement on a hypothetical
+		plane, and assigning any seat that wishes to be taken or until
+		all the seats have been filled.
+
+Look up a Baby Name	A user can search the list of the top 1,000 boy and 1,000 girl
+		names for 2003. Any number of names can be searched until the
+		user quits. At the end a list of the first 20 girl names
+		(alphabetically) will be displayed along with frequency and
+		rank.
+
+Play Tic-Tac-Toe	When started, a new window will appear seperate from the
+		portfolio window. Two people can play games of tic-tac-toe until
+		the window is closed.
